@@ -1,2 +1,2 @@
-# jd_summarizer
+# Job Description Summarizer
 Job Description Summarization with NLP
