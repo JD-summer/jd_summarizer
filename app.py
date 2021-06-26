@@ -1,10 +1,8 @@
 import flask
 from flask import Flask, request, session, redirect, url_for, render_template
-import re 
-import pandas as pd 
+import re  
 import nltk
 from nltk.corpus import stopwords
-import numpy as np
 from heapq import nlargest
 import spacy
 import txtai
@@ -22,17 +20,6 @@ def homepage():
     return render_template('index.html')
 
 
-def long_load(typeback):
-    time.sleep(5) #just simulating the waiting period
-    return "You typed: %s" % typeback
-
-# @app.route('/parse_data',methods=['POST','GET'])
-# def parse_data():
-#     text_file = open("Output.txt", "w")
-#     st=''
-#     st="The Stats are being compiled..."
-#     len_of_data=len(str(text_file))
-#     return render_template('index.html',st=st,len_of_data=len_of_data)
 
 
 
