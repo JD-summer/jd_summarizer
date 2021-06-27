@@ -1,4 +1,4 @@
 Flask
 spacy
 nltk
-
+txtai
