@@ -16,10 +16,15 @@ This insight would be taken by considering a significant number of job descripti
 These insights will be shown to the user in a catchy and pleasing format using graphs and charts on an analytical dashboard so that the user does not have to go through dozens of job postings to find the ideal skill.
 
 required dependencies:
+
 spacy==2.3.2
+
 nltk==3.5
+
 Flask==0.12.2
+
 txtai==3.1.0
+
 gunicorn
 
 screenshots of our websites:
@@ -32,7 +37,7 @@ various famous job roles
 ![image](https://user-images.githubusercontent.com/65179448/123538207-51d26d80-d751-11eb-8d9b-584725c3322c.png)
 
 
-
+job analytics
 ![image](https://user-images.githubusercontent.com/65179448/123538242-93fbaf00-d751-11eb-91a2-328ae9454b66.png)
 
 jobs available
