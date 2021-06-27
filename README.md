@@ -14,4 +14,12 @@ This insight would be taken by considering a significant number of job descripti
 These insights will be shown to the user in a catchy and pleasing format using graphs and charts on an analytical dashboard so that the user does not have to go through dozens of job postings to find the ideal skill.
 
 required dependencies:
-flask
+spacy==2.3.2
+nltk==3.5
+Flask==0.12.2
+txtai==3.1.0
+gunicorn
+
+screenshots of our websites:
+![image](https://user-images.githubusercontent.com/65179448/123537998-108d8e00-d750-11eb-8917-e54356880efa.png)
+
