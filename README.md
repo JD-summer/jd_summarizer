@@ -1,5 +1,4 @@
 # Job Description Summarizer
-<h1>Job Description Summarization with NLP:</h1>
 
 
 <h2>Problem:</h2>
