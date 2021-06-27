@@ -16,7 +16,7 @@ This insight would be taken by considering a significant number of job descripti
 
 These insights will be shown to the user in a catchy and pleasing format using graphs and charts on an analytical dashboard so that the user does not have to go through dozens of job postings to find the ideal skill.
 
-required dependencies:
+<h1>required dependencies:</h1>
 
 spacy==2.3.2
 
