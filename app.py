@@ -5,7 +5,6 @@ import nltk
 from nltk.corpus import stopwords
 from heapq import nlargest
 import spacy
-import txtai
 import time
 from txtai.pipeline import Summary
 
@@ -38,7 +37,6 @@ def JD():
         from txtai.pipeline import Summary
         summary = Summary()
         text = request.form['text']
-        outcome = long_load(text)
         text_length = len(text)
         doc = nlp(text)
         tokens = [token.text for token in doc]
@@ -75,9 +73,6 @@ def JD():
 
         k="The Summarized Version is:"
 
-        
-        # sumup = summary(text)
-        # sumup=sumup
 
 
 
@@ -90,4 +85,4 @@ def JD():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
