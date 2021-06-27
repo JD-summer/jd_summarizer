@@ -6,7 +6,7 @@ from nltk.corpus import stopwords
 from heapq import nlargest
 import spacy
 import time
-from txtai.pipeline import Summary
+# from txtai.pipeline import Summary
 
 STOP_WORDS = set(stopwords.words('english')) 
 stopwords = list(STOP_WORDS)
@@ -34,8 +34,8 @@ def JD():
     display_text = {}
     if request.method == 'POST':
         from string import punctuation
-        from txtai.pipeline import Summary
-        summary = Summary()
+#         from txtai.pipeline import Summary
+#         summary = Summary()
         text = request.form['text']
         text_length = len(text)
         doc = nlp(text)
@@ -68,7 +68,7 @@ def JD():
 
         summary1 = nlargest(select_length, sentence_scores,
                             key=sentence_scores.get)
-        sumup=summary(summary1[0])
+        sumup=str(summary1[0])
         k=''
 
         k="The Summarized Version is:"
