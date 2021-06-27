@@ -1,5 +1,5 @@
 # Job Description Summarizer
-Job Description Summarization with NLP:
+<h1>Job Description Summarization with NLP:</h1>
 
 
 Problem:
@@ -28,7 +28,7 @@ txtai==3.1.0
 
 gunicorn
 
-screenshots of our websites:
+<h1>screenshots of our websites:<h1>
 
 home page
 ![image](https://user-images.githubusercontent.com/65179448/123538164-120b8600-d751-11eb-8796-a3a9bfb47ebe.png)
