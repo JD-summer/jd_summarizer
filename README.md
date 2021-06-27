@@ -30,21 +30,21 @@ gunicorn
 
 <h1>screenshots of our websites:</h1>
 
-<h2>home page</h2>
+home page
 ![image](https://user-images.githubusercontent.com/65179448/123538164-120b8600-d751-11eb-8796-a3a9bfb47ebe.png)
 
 
-<h2>various famous job roles</h2>
+various famous job roles
 ![image](https://user-images.githubusercontent.com/65179448/123538207-51d26d80-d751-11eb-8d9b-584725c3322c.png)
 
 
-<h2>job analytics</h2>
+job analytics
 ![image](https://user-images.githubusercontent.com/65179448/123538242-93fbaf00-d751-11eb-91a2-328ae9454b66.png)
 
-<h2>jobs available</h2>
+jobs available
 ![image](https://user-images.githubusercontent.com/65179448/123538262-ac6bc980-d751-11eb-9f00-dd43b56e17d6.png)
 
-<h2>various jobs average salary</h2>
+various jobs average salary
 ![image](https://user-images.githubusercontent.com/65179448/123538356-23a15d80-d752-11eb-8908-8805a1f3db38.png)
 
 
