@@ -2,13 +2,13 @@
 <h1>Job Description Summarization with NLP:</h1>
 
 
-Problem:
+<h2>Problem:</h2>
 
 In this pandemic era,many people are losing their jobs as they are not getting proper guidance on what they should know or what skills they should work on for a particular job profile. Also in addition to the same situation , many job seekers are facing problems in figuring out the perfect job according to their skillset. 
 
 There is no central platform which can help them to derive some conclusive core skills for the specific role which they should be focusing on which will help them fetch their dream job. Also the job descriptions would be varying in terms of skills for the same role for different regions. People might be in a state where they are confused after seeing many skills for the same job profile in different regions. These may also include the upcoming new technologies too. 
 
-Solution:
+<h2>Solution:</h2>
 
 We can gather valuable insights from the job descriptions in the form of keywords that are in demand and would assist people who are looking for jobs to get insight on the particular skill they might require to crack their dream job. 
 
@@ -28,23 +28,23 @@ txtai==3.1.0
 
 gunicorn
 
-<h1>screenshots of our websites:<h1>
+<h1>screenshots of our websites:</h1>
 
-home page
+<h2>home page</h2>
 ![image](https://user-images.githubusercontent.com/65179448/123538164-120b8600-d751-11eb-8796-a3a9bfb47ebe.png)
 
 
-various famous job roles
+<h2>various famous job roles</h2>
 ![image](https://user-images.githubusercontent.com/65179448/123538207-51d26d80-d751-11eb-8d9b-584725c3322c.png)
 
 
-job analytics
+<h2>job analytics</h2>
 ![image](https://user-images.githubusercontent.com/65179448/123538242-93fbaf00-d751-11eb-91a2-328ae9454b66.png)
 
-jobs available
+<h2>jobs available</h2>
 ![image](https://user-images.githubusercontent.com/65179448/123538262-ac6bc980-d751-11eb-9f00-dd43b56e17d6.png)
 
-various jobs average salary
+<h2>various jobs average salary</h2>
 ![image](https://user-images.githubusercontent.com/65179448/123538356-23a15d80-d752-11eb-8908-8805a1f3db38.png)
 
 
