@@ -2,4 +2,4 @@ Flask
 spacy
 nltk
 gunicorn
-wsgi
+
